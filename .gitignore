@@ -1,0 +1,14 @@
+# Ignorar todos los archivos de imagen
+*.jpg
+*.png
+*.gif
+*.bmp
+*.jpeg
+
+
+# Ignorar imágenes en el directorio img/
+img/*.jpg
+img/*.png
+img/*.gif
+img/*.bmp
+img/*.jpeg
