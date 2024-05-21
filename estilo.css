@@ -197,7 +197,7 @@ html{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     transition: .3s;
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
     background-color: #1CB698;
