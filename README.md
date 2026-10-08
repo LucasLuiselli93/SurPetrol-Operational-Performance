@@ -8,7 +8,6 @@ Solución integral de Business Intelligence operativa desarrollada para la Direc
 
 ![SurPetrol Operational Field Dashboard](assets/dashboard_overview.png)
 
-> **Monitoreo Diario (15/03/2026):** Visibilidad unificada de volumen diario (`kboe/d`), corte de agua producida (`kbbl/d`), disponibilidad técnica de instalaciones, matriz de estado de 412 pozos y panel de criticidad de eventos/paradas no planificadas.
 
 ---
 
