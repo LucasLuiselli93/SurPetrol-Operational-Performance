@@ -1,6 +1,6 @@
 # SurPetrol - Upstream Real-Time Operational Performance & Field Asset Monitoring
 
-Solución integral de Business Intelligence operativa desarrollada para el Centro de Control y Operaciones de Campo (C&C) de **SurPetrol**. El sistema centraliza la telemetría diaria de boca de pozo, el despacho de fluidos (crudo, gas y agua producida), el monitoreo de instalaciones de superficie (CPF y baterías) y la gestión de intervenciones de torre (Workover y Perforación) para los bloques concesionados en cuencas productoras (Vaca Muerta, Los Toldos, Rincón del Mangrullo, entre otros).
+Solución integral de Business Intelligence operativa desarrollada para la Direccion de Operaciones de **SurPetrol**. El sistema centraliza la telemetría diaria de boca de pozo, el despacho de fluidos (crudo, gas y agua producida), el monitoreo de instalaciones de superficie (CPF y baterías) y la gestión de intervenciones de torre (Workover y Perforación) para los bloques concesionados en cuencas productoras (Vaca Muerta, Los Toldos, Rincón del Mangrullo, entre otros). Nombre Ficticio y datos extraidos de Kaggle.com 
 
 ---
 
