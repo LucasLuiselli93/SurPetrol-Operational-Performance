@@ -62,6 +62,7 @@ RETURN
     _Petroleo_kbbl + _Gas_kboe
 
 
+```
 ## 🧠 Conclusión
 
 El desarrollo de este tablero consolida la transición de un monitoreo operativo reactivo y fragmentado hacia una gestión integral basada en telemetría de campo. Al estandarizar los volúmenes de producción bajo una unidad homogénea (kboe/d) y centralizar el estado mecánico de pozos e instalaciones críticas (CPF y baterías), la Dirección de Operaciones obtiene visibilidad inmediata sobre la capacidad ociosa, el balance de fluidos y los desvíos de producción diferida, reduciendo tiempos de respuesta ante fallas y optimizando la asignación de recursos en intervenciones de torre
